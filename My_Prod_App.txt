@@ -1,0 +1,12 @@
+- No Clutter
+- Add/remove widgets
+- Widgets
+  -Pomodoro
+  -tasks (+pts)
+  -
+-Calendar
+
+Set Task -> Set pts -> start/schedule -> Pomo starts [pause/postpone] -> Pomo ends -> End Task
+
+
+
