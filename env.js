@@ -1,4 +1,1 @@
 use flake .nix
-prod 
-{{
-}}
